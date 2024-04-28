@@ -1,4 +1,6 @@
 # Compete HR Dashboard
+![HR Dashboard Animation](https://media.giphy.com/media/xTiTnpVDp86JbFCdzi/giphy.gif?cid=790b76112s7q5gs206e813i1sa74wtcewp7navtx6ndx0e5l&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 Welcome to the Compete HR Dashboard repository! This dashboard provides comprehensive insights into the factors driving employee attrition within the company. Through meticulous analysis and visualization, we've identified key patterns and trends that shed light on why employees leave, empowering you to take proactive measures to retain your valuable talent.
 
