@@ -4,6 +4,13 @@
 
 Welcome to the Compete HR Dashboard repository! This dashboard provides comprehensive insights into the factors driving employee attrition within the company. Through meticulous analysis and visualization, we've identified key patterns and trends that shed light on why employees leave, empowering you to take proactive measures to retain your valuable talent.
 
+# SCREENSHORTS
+
+![pic3](https://github.com/abhishek887229/HR_Data_analytics_Dashboard/assets/125186953/6c86fdd6-0a5f-4daa-a50c-33eab8c435d9)
+![pic2](https://github.com/abhishek887229/HR_Data_analytics_Dashboard/assets/125186953/49c6ea2b-3564-48f8-bd6f-3e9c34f19ef4)
+![pic1](https://github.com/abhishek887229/HR_Data_analytics_Dashboard/assets/125186953/09f063c4-9cf1-4640-9107-d2f3c6d847c0)
+
+
 ## Why Use This Dashboard?
 
 - **Actionable Insights:** Uncover highly impactful insights through our use of Power BI, allowing you to make informed decisions and take targeted actions to reduce employee turnover.
