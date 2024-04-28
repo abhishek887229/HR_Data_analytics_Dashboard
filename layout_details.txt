@@ -1,0 +1,4 @@
+text --> Krona One
+
+color :- #000000
+box color "- #D9D9D9
